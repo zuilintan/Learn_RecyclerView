@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerView_Album_Kotlin</string>
+    <string name="toolBar_menu_search">Search</string>
+    <string name="toolBar_menu_explore">Explore</string>
+    <string name="toolBar_menu_setting">Setting</string>
+    <string name="toolBar_menu_about">About</string>
+</resources>

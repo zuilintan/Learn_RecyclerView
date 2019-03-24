@@ -1,0 +1,1 @@
+include ':app', ':recyclerview_encap', ':recyclerview_cardlayout', ':recyclerview_album', ':recyclerview_album_kotlin', ':recyclerview_album_okhttp_gson'

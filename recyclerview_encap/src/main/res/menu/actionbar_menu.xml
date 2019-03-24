@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/actionBar_menu_addItem"
+        android:orderInCategory="100"
+        android:title="添加"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/actionBar_menu_delItem"
+        android:orderInCategory="101"
+        android:title="删除"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/actionBar_menu_refreshItem"
+        android:orderInCategory="102"
+        android:title="刷新"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/actionBar_menu_LoadMoreItem"
+        android:orderInCategory="103"
+        android:title="更多"
+        app:showAsAction="always" />
+</menu>
